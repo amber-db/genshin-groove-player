@@ -62,18 +62,18 @@ const timers = [
 const playlists = [
   {
     title: "Genshin Impact OST",
-    playlistId: "PLqWr7dyJNFwuSJI2xnBRSxH_B_RbxJLS",
+    playlistId: "PL8fZemLM-gGfJ2001AJEY8S-_qlbKnj_s",
     description: "Official soundtrack from all regions of Teyvat",
   },
   {
-    title: "Genshin Character Demos",
-    playlistId: "PLqWr7dyJNFwvFGE8XxPVxMQFqjqcjk4KQ",
-    description: "All character demo trailers and gameplay showcases",
+    title: "Fontaine OST",
+    playlistId: "PLbtvX38a8Eu4E6DxEUjYTlnEfegCiQEEt",
+    description: "Official Fontaine region soundtrack",
   },
   {
-    title: "Genshin Lore & Story",
-    playlistId: "PLqWr7dyJNFwu3t5JpK_tZzVfQxr8cQ5ka",
-    description: "Archon quests, story quests, and lore compilations",
+    title: "Natlan OST",
+    playlistId: "PLLoakUY_OOuivOaU42Bv19Z2wwWvNHypo",
+    description: "Official Natlan region soundtrack",
   },
 ];
 
